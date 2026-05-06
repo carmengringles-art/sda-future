@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260505213135X2EXTX</value>
+    <value>20260506155111AKW03V</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260505213135KF8VVO</value>
+    <value>20260506155111S8EPYD</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -68,7 +68,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778005414734</value>
+    <value>1778073087491</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -101,19 +101,43 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-1778005428714-73lth59q9</odePageId>
+  <odePageId>page-mou2t2wg-g2y3efwrr</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Sesión 1</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Sesión 1</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778005428714-73lth59q9</odePageId>
+      <odePageId>page-mou2t2wg-g2y3efwrr</odePageId>
       <odeBlockId>block-1778005431479-o0juxjkyk</odeBlockId>
       <blockName>Presentation</blockName>
       <iconName></iconName>
@@ -142,7 +166,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778005428714-73lth59q9</odePageId>
+          <odePageId>page-mou2t2wg-g2y3efwrr</odePageId>
           <odeBlockId>block-1778005431479-o0juxjkyk</odeBlockId>
           <odeIdeviceId>idevice-1778005431476-uvkm5wwlx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -152,12 +176,24 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005431476-uvkm5wwlx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/presentation/d/1OJDVbwCqkv-gLFVnGRgsbt1KR6f-ArkExSuRnXNM_II/edit?usp=sharing\" title=\"\">Presentation</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1778005428714-73lth59q9</odePageId>
+      <odePageId>page-mou2t2wg-g2y3efwrr</odePageId>
       <odeBlockId>block-1778005478830-bif3v3oxp</odeBlockId>
       <blockName>CVs</blockName>
       <iconName></iconName>
@@ -186,7 +222,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778005428714-73lth59q9</odePageId>
+          <odePageId>page-mou2t2wg-g2y3efwrr</odePageId>
           <odeBlockId>block-1778005478830-bif3v3oxp</odeBlockId>
           <odeIdeviceId>idevice-1778005478827-d4an18ytj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -196,12 +232,24 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005478827-d4an18ytj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.careers.ox.ac.uk/cvs\" title=\"\">Oxford Careers Service</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1778005428714-73lth59q9</odePageId>
+      <odePageId>page-mou2t2wg-g2y3efwrr</odePageId>
       <odeBlockId>block-1778005574997-9ynbnrthi</odeBlockId>
       <blockName>Check what you know!</blockName>
       <iconName></iconName>
@@ -230,7 +278,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778005428714-73lth59q9</odePageId>
+          <odePageId>page-mou2t2wg-g2y3efwrr</odePageId>
           <odeBlockId>block-1778005574997-9ynbnrthi</odeBlockId>
           <odeIdeviceId>idevice-1778005574995-liyyhisi6</odeIdeviceId>
           <odeIdeviceTypeName>form</odeIdeviceTypeName>
@@ -280,6 +328,18 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005574995-liyyhisi6","evaluation":false,"evaluationID":"a270d28b-474b-4e81-97f5-0aabd996ed07","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778005574995-liyyhisi6","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Answer the questions</p>","questionsData":[{"id":"1778005667316-7ZZOE","activityType":"true-false","baseText":"<p>A CV should be tailored for each job application</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778005696499-8TMIW","activityType":"true-false","baseText":"<p>A CV should include irrelevant personal information like favourite films</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778005716452-6LRKM","activityType":"true-false","baseText":"<p>Using action verbs makes a CV more effective</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778005739746-SP4S4","activityType":"true-false","baseText":"<p>A CV should be clear and well-structured</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778005762869-CPBR5","activityType":"true-false","baseText":"<p>Spelling mistakes in a CV are acceptable if the content is strong</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778005785951-7744C","activityType":"true-false","baseText":"<p>Work experience is an important section in a CV</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -287,19 +347,43 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778005829802-qnoeotjw0</odePageId>
+  <odePageId>page-mou2t2wl-m44cpgkqz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Sesión 2</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Sesión 2</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778005829802-qnoeotjw0</odePageId>
+      <odePageId>page-mou2t2wl-m44cpgkqz</odePageId>
       <odeBlockId>block-1778005853766-0dah3tyck</odeBlockId>
       <blockName>Elaboración del CV en inglés</blockName>
       <iconName></iconName>
@@ -328,7 +412,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778005829802-qnoeotjw0</odePageId>
+          <odePageId>page-mou2t2wl-m44cpgkqz</odePageId>
           <odeBlockId>block-1778005853766-0dah3tyck</odeBlockId>
           <odeIdeviceId>idevice-1778005853765-vn30huoot</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -341,18 +425,30 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
 </ul>
 <p>Sustituye la foto por una profesional con fondo neutro (si el sector lo requiere).<br />Asegúrate de que no ocupe más de una página.<br />Descarga y Entrega:</p>
 <p>Comprueba<a href="https://docs.google.com/document/d/1hEyeAN7hZ1WwPwMmtV1sfJ8mDNXBoU50jOnb8hLqbdY/edit?usp=sharing" title=""> la rúbrica</a> para ver si tu trabajo está terminado de forma adecuada.</p>
-<p>Haz clic en Compartir -&gt; Descargar.<br />Selecciona el formato PDF para impresión (es el que mejor calidad mantiene para los sistemas de lectura de CV).<br /><br /></p>
+<p>Haz clic en Compartir -> Descargar.<br />Selecciona el formato PDF para impresión (es el que mejor calidad mantiene para los sistemas de lectura de CV).<br /><br /></p>
 <p>Compártelo en <a href="https://drive.google.com/drive/folders/1zJee-NJZsnxSQlhe7sBrOg6NZi2pgQAJ?usp=sharing" title="">CVs GM2</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005853765-vn30huoot","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Reto: Crea tu CV Profesional en Canva<br />El objetivo de esta actividad es traducir tu análisis de fortalezas y debilidades en un documento visual que impacte a los reclutadores.</p>\n<p>Pasos a seguir:<br />Acceso y Selección:</p>\n<p>Entra en Canva.com e inicia sesión.<br />Busca la plantilla \"Currículum\" o \"CV\".<br />Consejo: Elige un diseño limpio, con mucho espacio en blanco y fuentes legibles (evita las que sean demasiado decorativas).<br />Estructura Imprescindible (Checklist):</p>\n<ul>\n<li>Datos de contacto: Nombre completo, teléfono, email profesional (ej: nombre.apellido@email.com) y enlace a tu perfil de LinkedIn.<br />Perfil profesional: Un párrafo de 3 líneas que resuma quién eres y qué valor aportas (aquí es donde usas tus fortalezas).<br />Experiencia / Proyectos: Si no tienes experiencia laboral, añade tus prácticas, voluntariados o proyectos escolares relevantes.<br />Formación: Títulos oficiales, centro de estudios y fechas.<br />Habilidades: Lista tus soft skills (comunicación, trabajo en equipo) y hard skills (idiomas, software específico).<br />Personalización Final:</li>\n</ul>\n<p>Sustituye la foto por una profesional con fondo neutro (si el sector lo requiere).<br />Asegúrate de que no ocupe más de una página.<br />Descarga y Entrega:</p>\n<p>Comprueba<a href=\"https://docs.google.com/document/d/1hEyeAN7hZ1WwPwMmtV1sfJ8mDNXBoU50jOnb8hLqbdY/edit?usp=sharing\" title=\"\"> la rúbrica</a> para ver si tu trabajo está terminado de forma adecuada.</p>\n<p>Haz clic en Compartir -&gt; Descargar.<br />Selecciona el formato PDF para impresión (es el que mejor calidad mantiene para los sistemas de lectura de CV).<br /><br /></p>\n<p>Compártelo en <a href=\"https://drive.google.com/drive/folders/1zJee-NJZsnxSQlhe7sBrOg6NZi2pgQAJ?usp=sharing\" title=\"\">CVs GM2</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005853765-vn30huoot","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Reto: Crea tu CV Profesional en Canva<br />El objetivo de esta actividad es traducir tu análisis de fortalezas y debilidades en un documento visual que impacte a los reclutadores.</p>\n<p>Pasos a seguir:<br />Acceso y Selección:</p>\n<p>Entra en Canva.com e inicia sesión.<br />Busca la plantilla \"Currículum\" o \"CV\".<br />Consejo: Elige un diseño limpio, con mucho espacio en blanco y fuentes legibles (evita las que sean demasiado decorativas).<br />Estructura Imprescindible (Checklist):</p>\n<ul>\n<li>Datos de contacto: Nombre completo, teléfono, email profesional (ej: nombre.apellido@email.com) y enlace a tu perfil de LinkedIn.<br />Perfil profesional: Un párrafo de 3 líneas que resuma quién eres y qué valor aportas (aquí es donde usas tus fortalezas).<br />Experiencia / Proyectos: Si no tienes experiencia laboral, añade tus prácticas, voluntariados o proyectos escolares relevantes.<br />Formación: Títulos oficiales, centro de estudios y fechas.<br />Habilidades: Lista tus soft skills (comunicación, trabajo en equipo) y hard skills (idiomas, software específico).<br />Personalización Final:</li>\n</ul>\n<p>Sustituye la foto por una profesional con fondo neutro (si el sector lo requiere).<br />Asegúrate de que no ocupe más de una página.<br />Descarga y Entrega:</p>\n<p>Comprueba<a href=\"https://docs.google.com/document/d/1hEyeAN7hZ1WwPwMmtV1sfJ8mDNXBoU50jOnb8hLqbdY/edit?usp=sharing\" title=\"\"> la rúbrica</a> para ver si tu trabajo está terminado de forma adecuada.</p>\n<p>Haz clic en Compartir -> Descargar.<br />Selecciona el formato PDF para impresión (es el que mejor calidad mantiene para los sistemas de lectura de CV).<br /><br /></p>\n<p>Compártelo en <a href=\"https://drive.google.com/drive/folders/1zJee-NJZsnxSQlhe7sBrOg6NZi2pgQAJ?usp=sharing\" title=\"\">CVs GM2</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1778005829802-qnoeotjw0</odePageId>
+      <odePageId>page-mou2t2wl-m44cpgkqz</odePageId>
       <odeBlockId>block-1778008718526-pry0ypu03</odeBlockId>
       <blockName>Rosco</blockName>
       <iconName></iconName>
@@ -381,7 +477,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778005829802-qnoeotjw0</odePageId>
+          <odePageId>page-mou2t2wl-m44cpgkqz</odePageId>
           <odeBlockId>block-1778008718526-pry0ypu03</odeBlockId>
           <odeIdeviceId>idevice-1778008718525-k5aitqlmm</odeIdeviceId>
           <odeIdeviceTypeName>az-quiz-game</odeIdeviceTypeName>
@@ -389,6 +485,18 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -396,19 +504,43 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778006725162-y1cshoa1n</odePageId>
+  <odePageId>page-mou2t2wm-b8ofct4yk</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Sesión 3</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Sesión 3</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778006725162-y1cshoa1n</odePageId>
+      <odePageId>page-mou2t2wm-b8ofct4yk</odePageId>
       <odeBlockId>block-1778006727859-2elpl6j0c</odeBlockId>
       <blockName>Carta de presentación + preparación de entrevistas</blockName>
       <iconName></iconName>
@@ -437,7 +569,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778006725162-y1cshoa1n</odePageId>
+          <odePageId>page-mou2t2wm-b8ofct4yk</odePageId>
           <odeBlockId>block-1778006727859-2elpl6j0c</odeBlockId>
           <odeIdeviceId>idevice-1778006727856-vmhtkif8e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -456,6 +588,18 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778006727856-vmhtkif8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Parte 1: Carta de presentación (covering letter)</strong><br />Primero, vais a analizar un modelo de carta de presentación. Veremos su estructura, expresiones útiles y el tipo de lenguaje formal que se utiliza. <a href=\"https://learnenglish.britishcouncil.org/free-resources/writing/a2/email-cover-letter\" title=\"\">Enlace al modelo y tareas</a></p>\n<p>Después escribiréis vuestra propia carta de presentación. Recordad:</p>\n<p>Presentaros de forma clara<br title=\"\" />Explicar por qué solicitáis el puesto de trabajo<br />Destacar vuestras habilidades y experiencia<br />Usar un lenguaje formal<br />Revisar bien la gramática y la ortografía antes de entregarla<br />Cuando la terminéis, la enviaréis a la profesora al siguiente <a href=\"https://drive.google.com/drive/folders/1zJee-NJZsnxSQlhe7sBrOg6NZi2pgQAJ?usp=drive_link\">enlace</a>.</p>\n<p><a href=\"https://docs.google.com/document/d/1GKit2r8SuDF4OJqhj5JvJrwfkNNH4iWG30YNJp1J5Rk/edit?usp=sharing\" title=\"\">Rúbrica del email</a></p>\n<p><strong>Parte 2: Role play de entrevista de trabajo</strong><br />En parejas, haréis una simulación de una entrevista de trabajo.</p>\n<p>Un alumno será el entrevistador y el otro el candidato. Después cambiaréis los roles.</p>\n<p>Debéis:</p>\n<p>Formular y responder preguntas típicas de entrevista<br />Hablar de forma clara y educada<br />Utilizar vocabulario adecuado y expresiones formales<br />Intentar sonar seguros y naturales<br />Ejemplos de preguntas:</p>\n<p>“Why do you want this job?” (¿Por qué quieres este trabajo?)<br />“What are your strengths?” (¿Cuáles son tus puntos fuertes?)<br />“Why should we hire you?” (¿Por qué deberíamos contratarte?)</p>\n<p>La profesora valorará vuestra práctica a través de esta <a href=\"https://docs.google.com/document/d/1v1dhQLqKI7sJW7H-lXplz9mCeabxZ9GfQlRByh-lPqM/edit?usp=sharing\" title=\"\">lista de cotejo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -463,19 +607,43 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778007506717-hylt97iaz</odePageId>
+  <odePageId>page-mou2t2wm-j6nbkm0d4</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Sesión 4</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Sesión 4</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778007506717-hylt97iaz</odePageId>
+      <odePageId>page-mou2t2wm-j6nbkm0d4</odePageId>
       <odeBlockId>block-1778007612600-mq6c5qgtz</odeBlockId>
       <blockName>Infografía</blockName>
       <iconName></iconName>
@@ -504,7 +672,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778007506717-hylt97iaz</odePageId>
+          <odePageId>page-mou2t2wm-j6nbkm0d4</odePageId>
           <odeBlockId>block-1778007612600-mq6c5qgtz</odeBlockId>
           <odeIdeviceId>idevice-1778007612595-xrz1btk7n</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -523,12 +691,24 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007612595-xrz1btk7n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>OBJETIVO DE LA SESIÓN<br />Crear una infografía visual que recoja de forma clara y atractiva los elementos clave de un CV y consejos para una entrevista de trabajo en inglés. recuerda que debes incluir algún elemento interactivo.</p>\n<p> <br />PASOS A SEGUIR</p>\n<p>Revisión del contenido<br />Antes de diseñar, revisa lo trabajado en clase:<br />Partes de un CV (personal details, education, work experience, skills…)<br />Expresiones útiles para entrevistas<br />Consejos para causar buena impresión en un proceso de selección<br /> <br />Diseño de la infografía en Canva<br />Entra en Canva y elige un formato de infografía.<br />Tu diseño debe incluir:</p>\n<p>CV</p>\n<p>Título: “How to write a good CV”<br />Secciones básicas del CV<br />Consejos breves (por ejemplo: use action verbs, be concise…)<br />Entrevista de trabajo</p>\n<p>Título: “Job interview tips”<br />Preguntas típicas<br />Consejos para responder (por ejemplo: be confident, speak clearly…)<br /> <br />Requisitos del diseño<br />Debe ser visual y fácil de entender<br />Usa colores, iconos e imágenes adecuadas<br />Incluye texto breve (no párrafos largos)<br />Cuida la ortografía y la gramática en inglés<br />Debe estar bien organizado<br /> <br />Entrega<br />Cuando termines:<br />Comparte el enlace y envíala a la profesora por correo electrónico. Tu pofre las irá compartiendo en la galería de abajo.</p>\n<p>Se evaluará mediante la siguiente <a href=\"https://docs.google.com/document/d/1i2r3vwQBL4TfQmpPqMilivqLsfR7k3aChaxjqQlZiAg/edit?usp=sharing\" title=\"\">rúbrica</a>.<br /> <br />OBJETIVO FINAL<br />Aprender a sintetizar información y presentarla de forma visual y profesional, como en contextos reales de empleo y comunicación digital.<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>\n<p> </p>\n<p><br /></p>\n<p><br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1778007506717-hylt97iaz</odePageId>
+      <odePageId>page-mou2t2wm-j6nbkm0d4</odePageId>
       <odeBlockId>block-1778008593944-0gyei58by</odeBlockId>
       <blockName>Galería de infografías</blockName>
       <iconName></iconName>
@@ -557,7 +737,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778007506717-hylt97iaz</odePageId>
+          <odePageId>page-mou2t2wm-j6nbkm0d4</odePageId>
           <odeBlockId>block-1778008593944-0gyei58by</odeBlockId>
           <odeIdeviceId>idevice-1778008593942-94zw1jclo</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -575,6 +755,18 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008593942-94zw1jclo"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -582,19 +774,43 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778007992936-go5a32hvf</odePageId>
+  <odePageId>page-mou2t2wm-k35dtd7en</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Sesión 5</pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Sesión 5</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778007992936-go5a32hvf</odePageId>
+      <odePageId>page-mou2t2wm-k35dtd7en</odePageId>
       <odeBlockId>block-1778008079657-59flae0qk</odeBlockId>
       <blockName>Aplicación interactiva</blockName>
       <iconName></iconName>
@@ -623,7 +839,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778007992936-go5a32hvf</odePageId>
+          <odePageId>page-mou2t2wm-k35dtd7en</odePageId>
           <odeBlockId>block-1778008079657-59flae0qk</odeBlockId>
           <odeIdeviceId>idevice-1778008079653-0fasegjrb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -638,6 +854,18 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008079653-0fasegjrb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>OBJETIVO<br />Crear una experiencia digital interactiva que ayude a practicar vocabulario, estructuras y situaciones reales relacionadas con el empleo.</p>\n<p> <br />PASOS A SEGUIR</p>\n<p>Planificación de la idea<br />Antes de empezar a diseñar, decidid:<br />Tipo de producto: videojuego o app interactiva<br />Tema principal: CV, entrevista de trabajo o proceso de selección<br />Público objetivo: compañeros de clase<br />Objetivo del juego o app: qué debe aprender o practicar el usuario<br />Ejemplos de ideas:</p>\n<p>Juego de preguntas tipo quiz sobre entrevistas<br />Simulador de entrevista de trabajo<br />App para construir un CV paso a paso<br />Escape room digital con tareas de empleo<br /> <br />Diseño del contenido<br />Debéis preparar:<br />Instrucciones claras del juego o app<br />Preguntas, retos o niveles<br />Respuestas correctas (si es un juego tipo quiz)<br />Feedback o mensajes para el usuario<br />Vocabulario en inglés relacionado con el mundo laboral<br /> <br />Creación en la herramienta digital<br />Podéis usar herramientas como:<br />Genially<br />Canva (presentaciones interactivas)<br />Gemini<br />El diseño debe incluir:</p>\n<p>Interactividad (botones, elecciones, enlaces o navegación)<br />Diseño visual claro y atractivo<br />Texto breve y comprensible en inglés<br /> <br />Requisitos obligatorios<br />Contenido relacionado con CV o entrevistas de trabajo<br />Uso de inglés adecuado al nivel<br />Al menos una parte interactiva (elecciones, botones, niveles o preguntas)<br />Diseño organizado y fácil de seguir<br /> <br />Entrega<br />Cuando finalicéis:<br />Compartid el enlace del proyecto o la presentación interactiva<br />Enviadlo a la profesora según las instrucciones del aula virtual<br /> <br />OBJETIVO FINAL<br />Aplicar el inglés en un contexto realista y creativo, desarrollando habilidades digitales, comunicativas y de resolución de problemas a través de la creación de un producto interactivo.<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -645,19 +873,43 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778008152939-c9pjpc1lm</odePageId>
+  <odePageId>page-mou2t2wn-2x51aqirc</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Sesión 6</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Sesión 6</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778008152939-c9pjpc1lm</odePageId>
+      <odePageId>page-mou2t2wn-2x51aqirc</odePageId>
       <odeBlockId>block-1778008355769-oxc7d0i2z</odeBlockId>
       <blockName>Presentaciones</blockName>
       <iconName></iconName>
@@ -686,7 +938,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778008152939-c9pjpc1lm</odePageId>
+          <odePageId>page-mou2t2wn-2x51aqirc</odePageId>
           <odeBlockId>block-1778008355769-oxc7d0i2z</odeBlockId>
           <odeIdeviceId>idevice-1778008355763-8uj91dxmr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -702,6 +954,18 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008355763-8uj91dxmr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión realizaremos la presentación final de los trabajos.</p>\n<p>Presentación de las apps interactivas<br />Cada grupo presentará su videojuego o app interactiva al resto de la clase. Explicarán brevemente:</p>\n<p>En qué consiste su proyecto<br />Cómo se juega o cómo funciona la app<br />Qué se aprende con ella<br />Después, el resto del alumnado probará las apps creadas por sus compañeros y compañeras.</p>\n<p>Exposición de infografías<br />También se presentarán las infografías que habéis creado previamente. Se comentarán los diseños y los contenidos más importantes relacionados con el CV y la entrevista de trabajo.</p>\n<p>Resolución de dudas y feedback<br />Durante la prueba de los juegos y apps:</p>\n<p>Se resolverán dudas técnicas o de funcionamiento<br />Se comentarán posibles mejoras<br />Se dará feedback constructivo entre compañeros<br /> </p>\n<p>Objetivo de la sesión<br />Compartir los proyectos creados, poner en práctica el aprendizaje a través del uso real de los trabajos del resto del alumnado y reflexionar sobre el proceso de diseño y comunicación digital.<br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -709,19 +973,223 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778008496034-13hkpfhbw</odePageId>
+  <odePageId>page-1778073383956-gtza1bw3g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Glosario</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glosario</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778073383956-gtza1bw3g</odePageId>
+      <odeBlockId>block-1778073401915-p2axyanhc</odeBlockId>
+      <blockName>GLossary</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778073383956-gtza1bw3g</odePageId>
+          <odeBlockId>block-1778073401915-p2axyanhc</odeBlockId>
+          <odeIdeviceId>idevice-1778073401914-ec05ie9wz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Achievements – Logros<br />Apply for a job – Solicitar un empleo<br />Candidate – Candidato/a<br />Cover letter – Carta de presentación<br />Deadline – Fecha límite<br />Dress code – Código de vestimenta<br />Employee – Empleado/a<br />Employer – Empleador/a<br />Full-time job – Trabajo a tiempo completo<br />Get fired – Ser despedido/a<br />Hire – Contratar<br />Internship – Prácticas<br />Interview – Entrevista<br />Interviewer – Entrevistador/a<br />Job application – Solicitud de empleo<br />Job interview questions – Preguntas de entrevista<br />Job vacancy – Vacante de empleo<br />Part-time job – Trabajo a tiempo parcial<br />Promotion – Ascenso<br />Qualifications – Titulaciones / cualificaciones<br />Quit a job – Dejar un trabajo<br />References – Referencias<br />Resume (CV) – Currículum vitae<br />Responsibilities – Responsabilidades<br />Salary – Salario<br />Skills – Habilidades<br />Strengths – Puntos fuertes<br />Wage – Sueldo (por horas)<br />Weaknesses – Puntos débiles<br />Work experience – Experiencia laboral</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778073401914-ec05ie9wz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Achievements – Logros<br />Apply for a job – Solicitar un empleo<br />Candidate – Candidato/a<br />Cover letter – Carta de presentación<br />Deadline – Fecha límite<br />Dress code – Código de vestimenta<br />Employee – Empleado/a<br />Employer – Empleador/a<br />Full-time job – Trabajo a tiempo completo<br />Get fired – Ser despedido/a<br />Hire – Contratar<br />Internship – Prácticas<br />Interview – Entrevista<br />Interviewer – Entrevistador/a<br />Job application – Solicitud de empleo<br />Job interview questions – Preguntas de entrevista<br />Job vacancy – Vacante de empleo<br />Part-time job – Trabajo a tiempo parcial<br />Promotion – Ascenso<br />Qualifications – Titulaciones / cualificaciones<br />Quit a job – Dejar un trabajo<br />References – Referencias<br />Resume (CV) – Currículum vitae<br />Responsibilities – Responsabilidades<br />Salary – Salario<br />Skills – Habilidades<br />Strengths – Puntos fuertes<br />Wage – Sueldo (por horas)<br />Weaknesses – Puntos débiles<br />Work experience – Experiencia laboral</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778073726007-kh4la7ac8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778073726007-kh4la7ac8</odePageId>
+      <odeBlockId>block-1778073731997-2p03xkcge</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778073726007-kh4la7ac8</odePageId>
+          <odeBlockId>block-1778073731997-2p03xkcge</odeBlockId>
+          <odeIdeviceId>idevice-1778073731993-zh2mq1hgr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de la situación de aprendizaje se llevará a cabo mediante una variedad de instrumentos de evaluación que permitan valorar el progreso del alumnado de forma continua y competencial. Se utilizarán rúbricas para evaluar el <a href="https://docs.google.com/document/d/1hEyeAN7hZ1WwPwMmtV1sfJ8mDNXBoU50jOnb8hLqbdY/edit?usp=sharing" title="">curriculum vitae,</a> el <a href="https://docs.google.com/document/d/1GKit2r8SuDF4OJqhj5JvJrwfkNNH4iWG30YNJp1J5Rk/edit?usp=sharing" title="">email de presentación</a> y la <a href="https://docs.google.com/document/d/1i2r3vwQBL4TfQmpPqMilivqLsfR7k3aChaxjqQlZiAg/edit?usp=sharing" title="">infografía.</a>, teniendo en cuenta aspectos como la adecuación, la corrección lingüística y la presentación. Asimismo, se empleará la observación directa durante las actividades orales, valorando la participación, la interacción y el uso del lenguaje y se incluirá también una <a href="https://docs.google.com/document/d/1v1dhQLqKI7sJW7H-lXplz9mCeabxZ9GfQlRByh-lPqM/edit?usp=sharing">lista de cotejo</a> para las simulaciones de entrevistas. Además, se fomentará la autoevaluación y coevaluación, con el fin de desarrollar la reflexión crítica y la autonomía del alumnado en su proceso de aprendizaje. El alumnado evaluará a sus pares en la realización de las infografías y apps con la siguiente <a href="https://docs.google.com/document/d/1KeZFAqplEM4OOnLi1cw0MzcpDOXspTG98U-dUYupUaQ/edit?usp=sharing">ficha de evaluación</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778073731993-zh2mq1hgr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de la situación de aprendizaje se llevará a cabo mediante una variedad de instrumentos de evaluación que permitan valorar el progreso del alumnado de forma continua y competencial. Se utilizarán rúbricas para evaluar el <a href=\"https://docs.google.com/document/d/1hEyeAN7hZ1WwPwMmtV1sfJ8mDNXBoU50jOnb8hLqbdY/edit?usp=sharing\" title=\"\">curriculum vitae,</a> el <a href=\"https://docs.google.com/document/d/1GKit2r8SuDF4OJqhj5JvJrwfkNNH4iWG30YNJp1J5Rk/edit?usp=sharing\" title=\"\">email de presentación</a> y la <a href=\"https://docs.google.com/document/d/1i2r3vwQBL4TfQmpPqMilivqLsfR7k3aChaxjqQlZiAg/edit?usp=sharing\" title=\"\">infografía.</a>, teniendo en cuenta aspectos como la adecuación, la corrección lingüística y la presentación. Asimismo, se empleará la observación directa durante las actividades orales, valorando la participación, la interacción y el uso del lenguaje y se incluirá también una <a href=\"https://docs.google.com/document/d/1v1dhQLqKI7sJW7H-lXplz9mCeabxZ9GfQlRByh-lPqM/edit?usp=sharing\">lista de cotejo</a> para las simulaciones de entrevistas. Además, se fomentará la autoevaluación y coevaluación, con el fin de desarrollar la reflexión crítica y la autonomía del alumnado en su proceso de aprendizaje. El alumnado evaluará a sus pares en la realización de las infografías y apps con la siguiente <a href=\"https://docs.google.com/document/d/1KeZFAqplEM4OOnLi1cw0MzcpDOXspTG98U-dUYupUaQ/edit?usp=sharing\">ficha de evaluación</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778075318147-xf8wjmlks</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Medidas de accesibilidad e inclusión</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Medidas de accesibilidad e inclusión</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778075318147-xf8wjmlks</odePageId>
+      <odeBlockId>block-1778075321316-by9x1j7z6</odeBlockId>
+      <blockName>DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778075318147-xf8wjmlks</odePageId>
+          <odeBlockId>block-1778075321316-by9x1j7z6</odeBlockId>
+          <odeIdeviceId>idevice-1778075321313-eec5he69z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje se diseña siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de garantizar la participación activa de todo el alumnado, atendiendo a la diversidad de ritmos, intereses y estilos de aprendizaje.</p>
+<p>En relación con el principio de proporcionar múltiples formas de representación, se ofrecen diferentes formatos de acceso a la información, como modelos visuales (ejemplos de CV e infografías), explicaciones orales, recursos digitales y materiales escritos adaptados, facilitando así la comprensión de los contenidos.</p>
+<p>Respecto al principio de múltiples formas de acción y expresión, el alumnado puede demostrar su aprendizaje a través de distintos productos (currículum, carta de presentación, infografía o recurso interactivo), utilizando herramientas digitales variadas (Canva, Genially, etc.), lo que permite adaptarse a sus habilidades y preferencias.</p>
+<p>En cuanto al principio de múltiples formas de implicación, se plantean tareas significativas y contextualizadas (búsqueda de empleo), cercanas a la realidad del alumnado, incorporando elementos motivadores como la gamificación y el trabajo cooperativo, con el fin de aumentar su interés y participación.</p>
+<p>Cabe destacar que se trata de un grupo reducido, compuesto por cinco alumnos, lo que permite una atención mucho más individualizada. Esta baja ratio facilita un seguimiento continuo del proceso de enseñanza-aprendizaje, posibilitando que la docente pueda adaptar las explicaciones, ofrecer apoyo inmediato y ajustar las actividades a las necesidades específicas de cada alumno en todo momento.</p>
+<p>Además, se contemplan medidas específicas como:</p>
+<p>Uso de modelos y andamiaje (plantillas, ejemplos guiados)<br />Flexibilización en tiempos de realización<br />Apoyo entre iguales mediante trabajo cooperativo<br />Uso de herramientas digitales que facilitan la accesibilidad<br />Refuerzo positivo y retroalimentación continua<br />Estas medidas contribuyen a crear un entorno de aprendizaje inclusivo, en el que todo el alumnado pueda progresar y alcanzar los objetivos propuestos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778075321313-eec5he69z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje se diseña siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de garantizar la participación activa de todo el alumnado, atendiendo a la diversidad de ritmos, intereses y estilos de aprendizaje.</p>\n<p>En relación con el principio de proporcionar múltiples formas de representación, se ofrecen diferentes formatos de acceso a la información, como modelos visuales (ejemplos de CV e infografías), explicaciones orales, recursos digitales y materiales escritos adaptados, facilitando así la comprensión de los contenidos.</p>\n<p>Respecto al principio de múltiples formas de acción y expresión, el alumnado puede demostrar su aprendizaje a través de distintos productos (currículum, carta de presentación, infografía o recurso interactivo), utilizando herramientas digitales variadas (Canva, Genially, etc.), lo que permite adaptarse a sus habilidades y preferencias.</p>\n<p>En cuanto al principio de múltiples formas de implicación, se plantean tareas significativas y contextualizadas (búsqueda de empleo), cercanas a la realidad del alumnado, incorporando elementos motivadores como la gamificación y el trabajo cooperativo, con el fin de aumentar su interés y participación.</p>\n<p>Cabe destacar que se trata de un grupo reducido, compuesto por cinco alumnos, lo que permite una atención mucho más individualizada. Esta baja ratio facilita un seguimiento continuo del proceso de enseñanza-aprendizaje, posibilitando que la docente pueda adaptar las explicaciones, ofrecer apoyo inmediato y ajustar las actividades a las necesidades específicas de cada alumno en todo momento.</p>\n<p>Además, se contemplan medidas específicas como:</p>\n<p>Uso de modelos y andamiaje (plantillas, ejemplos guiados)<br />Flexibilización en tiempos de realización<br />Apoyo entre iguales mediante trabajo cooperativo<br />Uso de herramientas digitales que facilitan la accesibilidad<br />Refuerzo positivo y retroalimentación continua<br />Estas medidas contribuyen a crear un entorno de aprendizaje inclusivo, en el que todo el alumnado pueda progresar y alcanzar los objetivos propuestos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mou2t2wn-8mwew99t9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Descargar fichero</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Descargar fichero</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargar fichero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778008496034-13hkpfhbw</odePageId>
+      <odePageId>page-mou2t2wn-8mwew99t9</odePageId>
       <odeBlockId>block-1778008521506-fd4cialph</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -750,7 +1218,7 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos &
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778008496034-13hkpfhbw</odePageId>
+          <odePageId>page-mou2t2wn-8mwew99t9</odePageId>
           <odeBlockId>block-1778008521506-fd4cialph</odeBlockId>
           <odeIdeviceId>idevice-1778008521503-yfwon4bc1</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -786,6 +1254,18 @@ El objetivo de esta situación de aprendizaje es que dejéis de ser candidatos "
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
